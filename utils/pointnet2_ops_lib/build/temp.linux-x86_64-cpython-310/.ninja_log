@@ -1,0 +1,10 @@
+# ninja log v5
+17	33728	1776425869739721500	/mnt/e/LA-Net-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query.o	b3d878be031f4147
+20	34356	1776425870057377500	/mnt/e/LA-Net-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points.o	710b5c22700ada0
+23	34376	1776425870225542600	/mnt/e/LA-Net-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate.o	36a0eb26bf3794e1
+26	34395	1776425870072377000	/mnt/e/LA-Net-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling.o	9e5bc454674a6fda
+19	34613	1776425870625730500	/mnt/e/LA-Net-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/bindings.o	757e3ea531d83224
+18	34948	1776425870973990900	/mnt/e/LA-Net-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/ball_query_gpu.o	40ffd67215ccec71
+24	35161	1776425871184540300	/mnt/e/LA-Net-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/interpolate_gpu.o	b6117604d3c9bffa
+21	35336	1776425871361146200	/mnt/e/LA-Net-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/group_points_gpu.o	c9ef4b893c9f9427
+27	35886	1776425871909396300	/mnt/e/LA-Net-main/utils/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-310/pointnet2_ops/_ext-src/src/sampling_gpu.o	be04c41bd5934fc5
